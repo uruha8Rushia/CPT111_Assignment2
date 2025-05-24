@@ -1,3 +1,9 @@
+# CPT111_Assignment1  
+**Implementing a Simple Coursework Grading System in C++**
+
+You can explore the full assignment and solution through the Google Colab notebook:  
+📎 [Google Colab Notebook](https://colab.research.google.com/drive/1o6kvJlOjkvIGfrPCkhYj5Tp8VssOm7Th?usp=sharing)
+
 ## 🔍 Assignment Overview  
 This C++ program automates the process of calculating coursework grades for a class, designed to help lecturers easily manage and evaluate student performance. The system reads raw assessment marks from an input file (`CPT111_CWMarks.txt`) and calculates the weighted total based on user-specified percentages for each assessment component which are Test 1, Test 2, Assignment 1 and Assignment 2
 
